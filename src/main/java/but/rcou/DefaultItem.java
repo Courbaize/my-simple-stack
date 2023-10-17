@@ -1,7 +1,7 @@
 package but.rcou;
 
 /**
- * Default item.
+ * AZERTYUIOP.
  */
 public class DefaultItem implements Item {
 
