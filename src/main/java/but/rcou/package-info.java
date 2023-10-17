@@ -1,0 +1,4 @@
+/**
+ * Test.
+ */
+package but.rcou;
